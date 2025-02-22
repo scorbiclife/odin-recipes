@@ -9,5 +9,8 @@ A basic html page that contains links to a few recipes.
 ## Skills
 
 - HTML
+    - basic html boilerplate
+    - headings
+    - lists
     - anchor tags
     - images
