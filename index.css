@@ -1,0 +1,28 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: turquoise;
+}
+
+h1 {
+    color: indigo;
+    background-color: #FF7777;
+}
+
+.emphasize-text {
+    text-align: center;
+}
+
+.wonky-list-item {
+    list-style: lower-latin;
+}
+
+.wonky-container {
+    color: white;
+    background-color: black;
+    font-size: 24px;
+}
+
+.wonky-container a {
+    color: red;
+}
+
